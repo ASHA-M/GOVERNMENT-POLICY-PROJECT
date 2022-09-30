@@ -6,7 +6,7 @@ To investigate if a policy introduced by the government back in 2016 was success
 To investigate what happens to this money and what types of charities is the money being donated to.  
 To investigate the sales of other types of bags (paper, fabric etc.)  
 
-## Key insights and conclusions
+## Key insights and Conclusions
 
 The Recycling rate was between 41% - 44% during 2010 to 2020.  
 Biggest decrease in single use plastic bag sales was between 2017-18 and 2018-19.  
