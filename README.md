@@ -8,18 +8,21 @@ To investigate the sales of other types of bags (paper, fabric etc.)
 ## Key insights 
 
 The Recycling rate was between 41% - 44% during 2010 to 2020.  
-Biggest decrease in sales was between 2017-18 and 2018-19.  
-
-
-
-
+Biggest decrease in single use plastic bag sales was between 2017-18 and 2018-19.  
+Supermarkets were the biggest sellers of single use plastic bags.  
+Most of the charitable donations went to unknown causes.  
+Some companies donated extra on top of the money they made from the sale of single use plastic bags while some deducted large amounts.   
 
 ## Data Limitations 
 
 Companies with over 250 employees were only recorded by the government as this law only applies to them.  
-Some companies choose not to disclose what causes they were donating the money to.  
+Some companies choose not to disclose what good causes they were donating the money to.  
 During Covid-19 the government briefly paused the policy for online groccery deliveries.  
 
+
+## Comments
+
+It would be interesting to look at the data from other parts of the United Kingdom such as Wales as they introduced the single use plastic bag surcharge in 2011.   
 
 ## Data Sources
 
