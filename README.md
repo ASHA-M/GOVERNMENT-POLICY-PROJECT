@@ -26,7 +26,10 @@ It would be interesting to look at the data from other parts of the United Kingd
 
 ## Data Sources
 
-[(https://www.data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england)]
+https://www.data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
+
+https://www.gov.uk/government/statistics/uk-waste-data/uk-statistics-on-waste
+![image](https://user-images.githubusercontent.com/105935510/193285080-43b6d91b-41f6-4ee1-b629-b4657ad86835.png)
 
 
 
