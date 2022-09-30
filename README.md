@@ -20,7 +20,7 @@ Companies with over 250 employees were only recorded by the government as this l
 Some companies choose not to disclose what good causes they were donating the money to.  
 During Covid-19 the government briefly paused the policy for online groccery deliveries.  
 
-## Comments
+## Comments & Future Work
 
 It would be interesting to look at data from other parts of the United Kingdom such as Wales as they introduced the single use plastic bag surcharge in 2011.   
 
