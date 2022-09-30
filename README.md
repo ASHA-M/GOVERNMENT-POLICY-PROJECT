@@ -1,4 +1,4 @@
-# How has the sale of Single Use Plastic Bags changed over time in England since the introduction of the mandatory surcharge by the Government?
+# How has the sale of Single Use Plastic Bags changed over time in England since the introduction of the mandatory surcharge by the Government? (2016-2021)  
 
 ## Purpose of Project
 To investigate if a policy introduced by the government back in 2016 was successful in reducing the sale of single use plastic bags in England.  
